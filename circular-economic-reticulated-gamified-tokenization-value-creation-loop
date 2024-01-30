@@ -1,0 +1,83 @@
+------
+circular-economic-reticulated-gamified-tokenization-value-creation-loop
+------------------------------------------------------------------------------------------------
+					Eco-System Tokenomics in the $MAD-Circular-Economy 
+			A Possible Structure for the Tokenomics, Mechanics, and Decentralized Finance
+Fungible Tokens
+	ERC20 -$MAD 
+-formed from the fractionalized vault of MBU originals 
+- used to purchase MBU from the fractionalized pool 1 $MAD = 1 MBU 
+-can be swapped for ETH 
+	ERC20 -xMAD 
+-reward for staking MBU_3d
+-reward for play to earn game
+- Governance token for MBU DAO and voting on proposals, token gated snapshot 
+-can be swapped for $MAD
+Non-Fungible Tokens
+	ERC721 - MBU # 
+(original minted 6,969 pfp NFTs)
+	MBU staked for $MAD 
+	ERC271 - MBU_3d # 
+(2nd drop by community, 4,200 avatars to use ANY game) 
+ 	MBU_vx staked for xMAD 
+Liquidty Provider- AMM POOLS
+	$MAD/ETH  --> liquidty pool formed in accordance with NFTx.io fractionalization, 
+		ACHIEVES the a fungible link between the MBU's floor price, the ERC20 $MAD tokens represents THAT specific pool of bananas, 
+		tied to the total floor price on marketplaces...
+		which will change over time that bananas in the vault are bought, staked, swapped, sold into, arbirtraged, etc) 
+		Arbritrage.....if bananas are selling for higher on open market, 
+		than banana in the fractionalized pool will be bought
+			vice versa if bananas are selling for higher in fractionalized pool, 
+		then bananas on open market will be bought...this inherently makes $MAD act the same way 
+		and move in relation to ETH price as the floor price of MBU moves)
+	xMAD/$MAD --> 
+		liqudity pool on sushiswap (on Polygon L2). 
+		collecting fees on members(or contracts) swapping xMAD to $MAD. 
+		LP tokens can have other utlities. 
+	$MAD/$SAND --> 
+		liqudiuty pool for rewarding SANDBOX players and SANDBOX stakers. 
+	xMAD / MBU_vx --> 
+		renting pool for avatar games and avatar access. 
+		---ALL pools will be collecting Txn fees, and all holders of the LP Tokens get distributed these funds in porportion to their 		holdings of the LP Tokens and % of Supply of the AMM Trading Pool (These AMM's work much differently than an order book)---
+Possbile loops of Eonomic Motion...of the Banana Ocean 
+	1$MAD = 1MBU = ?ETH
+	1MBU_3d = 1$MAD = ?ETH
+		this is the key...& the floor... 
+-->CLOSED economic circuit that the rest of this branches off from.....
+	THE FLOOR PRICES of the MBU and MBU_3d will fluctuate by way of the interactions between the different elements of the eco-system 
+get xMAD --> swap for $MAD --> buy MBU --> sell for ETH -->get xMAD for Txn reward
+get xMAD --> swap for $MAD --> buy MBU_3d --> use in game
+get xMAD --> hold for governance 
+get $MAD --> stake and compound --> swap earnings for ETH 
+get $MAD --> buy 1 MBU
+get $MAD --> swap for $SAND
+get $MAD --> buy MBU_3d 
+stake $MAD get xMAD 
+stake MBU_vx --> get xMAD
+play game --> get xMAD 
+stake MBU (unlisted MBU) --> get $MAD
+burn $MAD --> ('breed') get MBU_3d 
+	The Creation and usage of $MAD reduces the MBU supply available to purchase which increases the ETH value for each MBU
+so we increase utility of $MAD and drive the demand to take MBU off the market, contributing to the feedback loop. 
+				Txn fees within MBU eco-ecosystem
+	All the above essentially creates the value flow as well as the market stability 
+needed to create the feedback loop between assets, tokens, particpation, and  the overall $MAD economy
+format for cricular economic equations should always end with the first variable of the equatution
+essentially provbiding a proof for the circular nature of these flows of values and actions. 
+	X = Y = Z = X = Y = Z 
+xMAD potential for a governance token for DAO participation 
+your a 'n' integer could be a derivative of xMAD, 
+which can achieve some form of EMISSION per block mechanic....
+	this is risky of an inflationary environment 
+	which potentially debases any value that is created 
+	unless it is created to outpace it as demand drivers ramp up.... 
+	so maybe this is formed after the circuits are flowing, if not, 
+	if may stop the circuits from properly engaging these mechanics simultaneously.
+	that being there many ways in which this can / will / does create value, 
+	the timing the input of a DAO-derivative is crucially important .... 
+	as governing bodies that create their own inflation (to pay things to get done) 
+	without backing to the economic circuitry are non-sustainable in the long run and MBU lives on forever !!! 
+	the value must always be tied back to the assets growth within the network, 
+	as well as the direct path of those assets to exit in ETH 
+	the fixed supply of the MBU assets will rise in value, each time, their is an increased amount of users / holders / investors 			(preferably in waves)....]the rise in value is due to the nature of the Network Affect paired with Circular Economic Structure and of 	course the Law of Supply and Demand  
+------------------------------------------------------------------------------------------------------
